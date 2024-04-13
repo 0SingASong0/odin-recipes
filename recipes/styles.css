@@ -1,0 +1,14 @@
+* {
+    font-family: Monaco, monospace;
+}
+
+h1 {
+    color: rgba(0, 42, 158, 0.76);
+    background-color: rgb(212, 212, 212);
+}
+
+h3,
+b {
+    color: blueviolet;
+    background-color: beige;
+}
